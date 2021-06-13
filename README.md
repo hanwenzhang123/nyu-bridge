@@ -1,6 +1,6 @@
 #  NYU Tandon School of Engineering - Bridge to CS Spring 2018
 
-![NYU Tandon School of Engineering Logo](https://github.com/hanwenzhang123/nyu-bridge/blob/master/nyu_logo.jpg "NYU Tandon School of Engineering Logo Bridge to CS Spring 2021")
+![NYU Tandon School of Engineering Logo](nyu_logo.jpg "NYU Tandon School of Engineering Logo Bridge to CS Spring 2021")
 
 Want to know more about my background and/or collaborate? Let's connect through LinkedIn!
 [Nam's LinkedIn](https://www.linkedin.com/in/hanwenzhang123)
