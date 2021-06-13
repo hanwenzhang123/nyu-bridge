@@ -1,9 +1,9 @@
-#  NYU Tandon School of Engineering - Bridge to CS Spring 2018
+#  NYU Tandon School of Engineering - Bridge to CS Summer 2021
 
 ![NYU Tandon School of Engineering Logo](nyu_logo.jpg "NYU Tandon School of Engineering Logo Bridge to CS Spring 2021")
 
 Want to know more about my background and/or collaborate? Let's connect through LinkedIn!
-[Nam's LinkedIn](https://www.linkedin.com/in/hanwenzhang123)
+[Hanwen's LinkedIn](https://www.linkedin.com/in/hanwenzhang123)
 
 ## Program Description
 
@@ -57,4 +57,4 @@ thread concurrency, deadlocks, and memory management.
 * Processes & Threads
 * Thread concurrency and deadlocks
 * Memory Management
-
+ 
