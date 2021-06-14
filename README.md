@@ -2,8 +2,8 @@
 
 ![NYU Tandon School of Engineering Logo](nyu_logo.jpg "NYU Tandon School of Engineering Logo Bridge to CS Spring 2021")
 
-Want to know more about my background and/or collaborate? Let's connect through LinkedIn!
-[Hanwen's LinkedIn](https://www.linkedin.com/in/hanwenzhang123)
+Want to know more about my background and/or collaborate?\
+Let's connect through LinkedIn! [Hanwen's LinkedIn](https://www.linkedin.com/in/hanwenzhang123)
 
 ## Program Description
 
