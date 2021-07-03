@@ -1,0 +1,79 @@
+Definition
+The computer is an electromechanical device which takes input, does processing and produces output.
+
+Types of Computer
+
+What is common Between Them?
+
+Communication between the devices
+- via a bus
+
+The CPU
+
+Machine-Language
+
+Instruction set
+- CPU can perform, a set of instruction as small asa 100
+- when the CPU receives a particular instruction, it performs that task
+
+Fetch-Execute Cycle
+- fetch instruction
+- decode instruction
+- execute instruction
+
+Memory
+
+Hierarchy
+top : register (built directly in the CPU)
+Cache
+RAM
+
+RAM
+
+Secondary Storage
+
+HDD vs SSD
+
+Networking
+- networks are interconnected via the internet
+
+Phsical Connections
+Types of connections:
+- copper
+- fiber
+- wireless
+Protocols:
+- how do we know when to start sending data?
+- how do we know who its from?
+- how do we know who its going to?
+Types of physicaal connections
+- ethernet (physical)
+- wifi (802.11)
+- ATM
+
+Packets
+- data is sent from a program to another indirectly by using multiple protocols
+- generally there will be protocols for
+  - application, logical network, physical network
+- data is encapsulated into a packet then give to the application protocol, lower level;
+  which then adds a header for the information for the receiver to understand what is being sent
+- when the packet moves to the logical protoccol, it too adds a header on top of application layer's header.
+
+Layers we commonly use
+Application
+- HTTP - Hyper Text Transport Protocol
+- SMTP - Simple Mail Transport Protocol
+- IMAP - Internet Mail Access Protocol
+Logical (more formally called network)
+- usually broken down into two layers
+  - connection oriented vs connection less deals with the ordering and guarantee of delivery of packets
+    - UDP (connection less)
+    - TCP (connection oriented)
+      Now watching video via HTTP over TCP
+  - Global delivery of packets
+    - Internet Protocol - IP
+Physical
+- often adds a header and footer (to indicate the end)
+- mostly concerned with local addressing and how to deal with eccentricities of the physical medium
+  
+   
