@@ -12,7 +12,7 @@ input: a sequence of numbers <a1, a2, .... an>
 output: a reording <b1, b2, .... bn> of the input sequence such that b1<= b2<= ... <=bn
 
 algorithm
-a werll defined computational procedure, that describes how to transform a given input to its desired output. 
+a well defined computational procedure, that describes how to transform a given input to its desired output. 
 
 Input - well designed set of instruction - output
 
@@ -24,3 +24,9 @@ sorting algorithms
 .... (more)
 
 selection sort (easiest way)
+for (curr = 0; curr<=n-2; curr+=1)
+  min = curr
+  for(j = curr+1; j<= n-1; j+=1)
+    if(A[j]<A[min])
+      min=j
+  swap(A[curr], A[min])
