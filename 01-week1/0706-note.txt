@@ -17,3 +17,10 @@ a werll defined computational procedure, that describes how to transform a given
 Input - well designed set of instruction - output
 
 sorting algorithms
+- selection sort
+- insertion sort
+- bubbe sort
+- merge sort
+.... (more)
+
+selection sort (easiest way)
