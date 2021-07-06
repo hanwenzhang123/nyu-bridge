@@ -1,0 +1,19 @@
+In computer science we design algorithms to solve computational problems.
+we then implement them in a formal pprograming language which would be executed by the computer
+
+
+computation problems
+when stating a computational problem:
+1. define set of legal inputs
+2. dedine the required output, for each input
+
+example: the sorting problem
+input: a sequence of numbers <a1, a2, .... an>
+output: a reording <b1, b2, .... bn> of the input sequence such that b1<= b2<= ... <=bn
+
+algorithm
+a werll defined computational procedure, that describes how to transform a given input to its desired output. 
+
+Input - well designed set of instruction - output
+
+sorting algorithms
