@@ -1,0 +1,43 @@
+A logical statement whose truth value is a function of one or more variables is called a predicate.
+The statement contains a variable and is therefore a predicate.
+
+A predicate can depend on more than one variable. Define the predicates Q and R as:
+Q(x, y): x^2 = y
+R(x, y, z): x+y = z
+The proposition Q(5, 25) is true because 52 = 25. The proposition R(2, 3, 6) is false because 2 + 3 ≠ 6
+
+The domain of a variable in a predicate is the set of all possible values for the variable. 
+For example, a natural domain for the variable x in the predicate "x is an odd number" would be the set of all integers. 
+If the domain of a variable in a predicate is not clear from context, the domain should be given as part of the definition of the predicate.
+
+
+Universal quantifier
+If all the variables in a predicate are assigned specific values from their domains, then the predicate becomes a proposition with a well defined truth value. 
+Another way to turn a predicate into a proposition is to use a quantifier. 
+
+The logical statement ∀x P(x) is read "for all x, P(x)" or "for every x, P(x)". 
+The statement ∀x P(x) asserts that P(x) is true for every possible value for x in its domain. 
+The symbol ∀ is a universal quantifier and the statement ∀x P(x) is called a universally quantified statement. 
+∀x P(x) is a proposition because it is either true or false. 
+∀x P(x) is true if and only if P(n) is true for every n in the domain.
+
+Proving ∀x (1/(x+1) < 1) is true for an arbitrary positive integer x.
+The proof starts with the fact that 0<x for all positive integers and adds 1 to both sides to get 1<1+x.
+Dividing both sides by (x+1) gives that (1/(x+1) < 1). The inequality is true for all positive integers x.
+
+A counterexample for a universally quantified statement is an element in the domain for which the predicate is false. 
+A single counterexample is sufficient to show that a universally quantified statement is false. 
+For example, consider the statement ∀x (x2 > x), in which the domain is the set of positive integers. 
+When x = 1, then x2 = x and the statement x2 > x is not true. 
+Therefore x = 1 is a counterexample that shows the statement "∀x (x2 > x)" is false.
+
+
+Existential quantifier
+The logical statement ∃x P(x) is read "There exists an x, such that P(x)". 
+The statement ∃x P(x) asserts that P(x) is true for at least one possible value for x in its domain. 
+The symbol ∃ is an existential quantifier and the statement ∃x P(x) is called a existentially quantified statement. 
+∃x P(x) is a proposition because it is either true or false. 
+∃x P(x) is true if and only if P(n) is true for at least one value n in the domain of variable x.
+
+∃x (x + 1 < x) - The statement is false because no positive integer satisfies the expression x + 1 < x.
+
