@@ -1,0 +1,51 @@
+1.1 Propositions and logical operations
+Logic is the study of formal reasoning. Logic is useful in any field in which it is important to make precise statements. 
+The most basic element in logic is a proposition. A proposition is a statement that is either true or false.
+
+There are an infinite number of prime numbers.	True
+The Declaration of Independence was signed on July 4, 1812.	False
+
+A proposition's truth value is a value indicating whether the proposition is actually true or false. 
+A proposition is still a proposition whether its truth value is known to be true, known to be false, unknown, or a matter of opinion. 
+
+Proposition         	Comment
+Two plus two is four.	Truth value is true.
+Two plus two is five.	Truth value is false.
+Monday will be cloudy.	Truth value is unknown.
+The movie was funny.	Truth value is a matter of opinion.
+The extinction of the dinosaurs was caused by a meteor.	Truth value is unknown.
+
+A compound proposition is created by connecting individual propositions with logical operations.
+A logical operation combines propositions using a particular composition rule.
+
+For example, the conjunction operation is denoted by ∧. 
+The proposition p ∧ q is read "p and q" and is called the conjunction of p and q. 
+p ∧ q is true if both p is true and q is true. p ∧ q is false if p is false, q is false, or both are false.
+
+p ∧ q is true only when both p and q are true.
+p ∧ q is false for all other combinations.
+
+The disjunction operation is denoted by ∨. 
+The proposition p ∨ q is read "p or q", and is called the disjunction of p and q. 
+p ∨ q is true if either one of p or q is true, or if both are true. 
+p ∨ q is true when either of p or q is true.
+p ∨ q is false only when p and q are both false.
+
+The exclusive or of p and q evaluates to true when p is true and q is false or when q is true and p is false. 
+The exclusive or operation is usually denoted with the symbol ⊕. 
+The proposition p ⊕ q is true if exactly one of the propositions p and q is true but not both.
+p ⊕ q does not evaluate to true if p is true and q is true.
+p ⊕ q is true if exactly one of p and q are true. In the second row of the table, p is true and q is not true.
+p ⊕ q does not evaluate to true if p is false and q is false.
+
+The inclusive or operation is the same as the disjunction (∨) operation and evaluates to true when one or both of the propositions are true.
+
+The negation operation acts on just one proposition and has the effect of reversing the truth value of the proposition. 
+The negation of proposition p is denoted ¬p and is read as "not p". 
+
+The truth value of ¬p is the opposite of the truth value of p.
+
+¬ (not)
+∧ (and)
+∨ (or)
+
