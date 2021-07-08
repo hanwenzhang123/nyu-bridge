@@ -58,21 +58,10 @@ The order in which the operations are applied in a compound proposition such as 
 the proposition p ∨ q ∧ r should be read as p ∨ (q ∧ r), instead of (p ∨ q) ∧ r. 
  
 
-1.4 Logical equivalence
-A compound proposition is a tautology if the proposition is always true, regardless of the truth value of the individual propositions that occur in it. 
-A compound proposition is a contradiction if the proposition is always false, regardless of the truth value of the individual propositions that occur in it.
-
-Two compound propositions are said to be logically equivalent if they have the same truth value regardless of the truth values of their individual propositions. 
-If s and r are two compound propositions, the notation s ≡ r is used to indicate that r and s are logically equivalent. 
-For example, p and ¬¬p have the same truth value regardless of whether p is true or false, so p ≡ ¬¬p. 
-Propositions s and r are logically equivalent if and only if the proposition s ↔ r is a tautology.
-
-
 1.5 Laws of propositional logic
 If two propositions are logically equivalent, then one can be substituted for the other within a more complex proposition. 
 The compound proposition after the substitution is logically equivalent to the compound proposition before the substitution.
 
-For example p → q ≡ ¬p ∨ q. Therefore,
-
-(p ∨ r) ∧ (¬p ∨ q)  ≡  (p ∨ r) ∧ (p → q)
+For example p → q ≡ ¬p ∨ q. Therefore, (p ∨ r) ∧ (¬p ∨ q)  ≡  (p ∨ r) ∧ (p → q)
         
+ 
