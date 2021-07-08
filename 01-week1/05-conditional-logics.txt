@@ -1,0 +1,41 @@
+The conditional operation is denoted with the symbol →. 
+The proposition p → q is read "if p then q". 
+The proposition p → q is false if p is true and q is false; otherwise, p → q is true.
+
+A compound proposition that uses a conditional operation is called a conditional proposition. 
+A conditional proposition expressed in English is sometimes referred to as a conditional statement, as in "If there is a traffic jam today, then I will be late for work."
+
+In p → q, the proposition p is called the hypothesis, and the proposition q is called the conclusion. 
+
+Truth table for the conditional operation.
+p	q	p → q
+T	T	T
+T	F	F
+F	T	T
+F	F	T
+
+The converse, contrapositive, and inverse
+Three conditional statements related to proposition p → q are so common that they have special names. The converse of p → q is q → p. 
+The contrapositive of p → q is ¬q → ¬p.The inverse of p → q is ¬p → ¬q.
+
+Table 1.3.3: The converse, contrapositive, and inverse.
+Proposition:	  p → q	    Ex: If it is raining today, the game will be cancelled.
+Converse:	  q → p	    If the game is cancelled, it is raining today.
+Contrapositive:	  ¬q → ¬p	    If the game is not cancelled, then it is not raining today.
+Inverse:	  ¬p → ¬q	    If it is not raining today, the game will not be cancelled.
+
+
+
+The biconditional operation
+If p and q are propositions, the proposition "p if and only if q" is expressed with the biconditional operation and is denoted p ↔ q. 
+The proposition p ↔ q is true when p and q have the same truth value and is false when p and q have different truth values.
+
+Alternative ways of expressing p ↔ q in English include "p is necessary and sufficient for q" or "if p then q, and conversely". 
+The term iff is an abbreviation of the expression "if and only if", as in "p iff q". The truth table for p ↔ q is given below:
+
+Table 1.3.4: Truth table for the biconditional operation.
+p	q	p ↔ q
+T	T	T
+T	F	F
+F	T	F
+F	F	T
