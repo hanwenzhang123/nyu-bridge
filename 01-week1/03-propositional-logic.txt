@@ -69,8 +69,10 @@ Propositions s and r are logically equivalent if and only if the proposition s �
 
 
 1.5 Laws of propositional logic
-If two propositions are logically equivalent, then one can be substituted for the other within a more complex proposition. The compound proposition after the substitution is logically equivalent to the compound proposition before the substitution.
+If two propositions are logically equivalent, then one can be substituted for the other within a more complex proposition. 
+The compound proposition after the substitution is logically equivalent to the compound proposition before the substitution.
 
 For example p → q ≡ ¬p ∨ q. Therefore,
 
 (p ∨ r) ∧ (¬p ∨ q)  ≡  (p ∨ r) ∧ (p → q)
+        
