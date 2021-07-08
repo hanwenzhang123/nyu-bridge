@@ -49,3 +49,11 @@ The truth value of ¬p is the opposite of the truth value of p.
 ∧ (and)
 ∨ (or)
 
+
+1.2 Evaluating compound propositions
+A compound proposition can be created by using more than one operation. 
+For example, the proposition p ∨ ¬q evaluates to true if p is true or the negation of q is true.
+
+The order in which the operations are applied in a compound proposition such as p ∨ ¬q ∧ r may affect the truth value of the proposition. 
+the proposition p ∨ q ∧ r should be read as p ∨ (q ∧ r), instead of (p ∨ q) ∧ r. 
+ 
