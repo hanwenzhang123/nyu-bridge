@@ -15,7 +15,7 @@ int main() {
   int daysTraveled;
   int fullWeeks, remainingDays;
   
-  cout<<"please enter the total days:"<<endl;
+  cout<<"please enter the total number of days you traveled: "<<endl;
   cin>>daysTraveled;
   
   fullWeeks = daysTraveled / DAYS_IN_A_WEEK;
