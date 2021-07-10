@@ -10,7 +10,7 @@ if 19 days, there will be 2 weeks and 5 days
 #include <iostream>
 using namespace std;
 
-const int DAYS_IN_A_WEEK = 7;   //for constance, we use upper cases and seperate words with underscore //7 is the number of the week
+const int DAYS_IN_A_WEEK = 7;   //for constance, we use upper cases and seperate words with underscore 
 int main() {
   int daysTraveled;
   int fullWeeks, remainingDays;
