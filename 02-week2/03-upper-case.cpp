@@ -13,7 +13,7 @@ int main() {
   cout<<"Please enter a lower case letter: "<<endl;
   cin>>lowerCaseLetter;
 
-  offset = (int)(lowerCaseLetter - 'a');
+  offset = (int)(lowerCaseLetter - 'a');    //the integer value
   upperCaseLetter = (char)('A' + offset);   //that will be uppercase letter
   
   cout<<"The upper case of "<<lowerCaseLetter<<" is "<<upperCaseLetter<<endl;
