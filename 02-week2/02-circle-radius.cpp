@@ -9,7 +9,7 @@ let c be a circle with a radius of length r.
   
 
 #include <iostream>   //extension
-#include <cmath>
+#include <cmath>      //extension library
 using namespace std;
 
 int main() {
