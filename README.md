@@ -1,6 +1,6 @@
-#  NYU Tandon School of Engineering - Bridge to CS
+#  NYU Tandon School of Engineering - Bridge to Computer Science
 
-![NYU Tandon School of Engineering Logo](nyu_logo.jpg "NYU Tandon School of Engineering Logo Bridge to CS")
+![NYU Tandon School of Engineering Logo](nyu_logo.jpg "NYU Tandon School of Engineering Logo Bridge to Computer Science")
 
 Want to know more about my background and/or collaborate?\
 Let's connect through LinkedIn! [Hanwen's LinkedIn](https://www.linkedin.com/in/hanwenzhang123)
